@@ -18,10 +18,7 @@
 
 .foglio{
    border-style: solid; 
-   border-color: red;
-   position: absolute;
-   top: 300px;
-   left: 300px;
+   border-color: grey;
 }
 .nome{
     color: blue;
